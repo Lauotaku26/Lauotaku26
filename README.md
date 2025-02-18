@@ -6,7 +6,7 @@
 
 - 🌱 Estoy aprendiendo **Tableau y otras herramientas de Data Science.**
 
-- 💬 Preguntame por **Power BI, SQL and Python**
+- 💬 Preguntame por **Power BI, SQL y Python**
 
 - 📫 Me puedes contactar por **ladajepe@Hotmail.com , ladajepe1604@gmail.com**
 
