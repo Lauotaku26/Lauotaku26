@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauotaku26&label=Profile%20views&color=0e75b6&style=flat" alt="lauotaku26" /> </p>
 
-- 🌱 Estoy aprendiendo **Tableau and other Data Science tools.**
+- 🌱 Estoy aprendiendo **Tableau y otras herramientas de Data Science.**
 
 - 💬 Preguntame por **Power BI, SQL and Python**
 
